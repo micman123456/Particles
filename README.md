@@ -24,5 +24,5 @@ To compile and run this simulation, you need:
 1. **Clone the repository**:
 
    ```bash
-   git clone https://github.com/your-username/particle-physics-simulation.git
-   cd particle-physics-simulation
+   git clone https://github.com/micman123456/Particles.git
+   cd Particles
