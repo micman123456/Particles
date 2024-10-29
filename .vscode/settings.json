@@ -1,0 +1,11 @@
+{
+    "files.associations": {
+        "chrono": "cpp",
+        "vector": "cpp",
+        "random": "cpp",
+        "future": "cpp",
+        "cstdlib": "cpp",
+        "cmath": "cpp",
+        "xutility": "cpp"
+    }
+}
